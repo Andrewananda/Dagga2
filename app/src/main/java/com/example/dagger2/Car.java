@@ -17,6 +17,6 @@ public class Car {
     }
 
     public void drive() {
-        Log.d(TAG, "driving...");
+        Log.i(TAG, "driving...");
     }
 }
